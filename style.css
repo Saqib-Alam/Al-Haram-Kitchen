@@ -1,0 +1,131 @@
+*{
+    color: rgb(189, 52, 52);
+
+}
+
+.navbar{
+    background-color: #fff  !important;
+    box-shadow: 5px 5px 20px grey ;
+    width: 100% ;
+    position: fixed;
+    margin-top: 0;
+    margin-bottom: 10px;
+    z-index: 1 !important;
+}
+
+.nav-link{
+
+    color: black !important;
+    font-weight: bold;
+}
+
+nav a img{
+    width: 200px;
+    height: 80px;
+}
+.slider{
+
+    margin-top: 20px;
+    margin-left :40px;
+    margin-right: 40px;
+
+}
+
+.sliderimg{
+    width: 100% !important;
+
+    height: 500px !important;
+
+}
+.MealsPor{
+
+    margin-top: 50px;
+}
+
+div h2{
+      text-align: center;
+    
+}
+.row{
+
+    /* margin-top: 20px !important; */
+}
+
+.Meals{
+
+    height: 200px !important;
+    width: 100%!important;
+}
+.card{
+
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+.WP{
+
+height: 300px !important;
+}
+
+.btn-primary{
+
+    width: 100% !important;
+    background-color: rgb(189, 52, 52) ;
+}
+
+.exceptNav{
+    position: absolute;
+    margin-top: 110px;
+    z-index: -1 !important;
+}
+.weekly{
+    margin-top: 20px;
+}
+
+
+ul li a{
+
+    margin-left :30px !important;
+}
+
+ul li a:hover{
+    color: rgb(189, 52, 52) !important;
+}
+
+#HomeActive{
+
+    color:  rgb(189, 52, 52) !important;
+}
+
+#WeeklyActive{
+
+    color:  rgb(189, 52, 52) !important;
+}
+
+#ContactActive{
+
+    color:  rgb(189, 52, 52) !important;
+}
+
+#OrderActive{
+
+    color:  rgb(189, 52, 52) !important;
+}
+
+.btn:hover{
+
+    background-color: green !important;
+}
+
+h3{
+    text-align: center;
+}
+
+.fa{
+    font-size: 30px !important;
+}
+
+tr td a{
+    color: rgb(189, 52, 52) !important;
+}
+
